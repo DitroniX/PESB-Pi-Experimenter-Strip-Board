@@ -12,6 +12,9 @@ Designed to easily expand small quick R&D projects, or experimenting, this compa
 * All GPIOs conveniently brought out to a pad for easy PTH (or SMD), use
 * SPI, I2C and UART brought out to pads for easy linking 
 
+**Overview**
+![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Pi%20Experimenter%20Strip%20Board%20Overview.png)
+
 **Top**
 ![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%203D%20Top%20Angled.png)
 
