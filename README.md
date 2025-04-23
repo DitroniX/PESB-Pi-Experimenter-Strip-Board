@@ -1,12 +1,31 @@
-** PESB (Raspberry Pi Experimenter Strip Board) ** -
+**PESB (Raspberry Pi Experimenter Strip Board)**
 
+New for April 2025 - In Production
 
+Designed to easily expand small quick R&D projects, or experimenting, this compact Pi Experimenters Strip Board, is absolutely ideal!
+
+**Features**
+* Compact size of the Pi Zero, 65mm x 30mm
+* Standard mounting holes
+* Stackable 
+* Power Rails, both 3V3 and 5V, for easy connection
+* All GPIOs conveniently brought out to a pad for easy PTH (or SMD), use
+* SPI, I2C and UART brought out to pads for easy linking 
+
+**Top**
+![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%203D%20Top%20Angled.png)
+
+**Bottom**
+![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%203D%20Btm%20Angled.png)
+
+**Verticle tracks on bottom, which can be cut as/if needed.**
+![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%20Btm%20Tracks.png)
 
 ------------
 
 **In The Box**
 
-Details to follow.
+1 x Pack of 5, PESB - Pi Experimenter Strip Boards.
 
 ## **Purchase**
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
