@@ -18,7 +18,7 @@ Designed to easily expand small quick R&D projects, or experimenting, this compa
 **Bottom**
 ![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%203D%20Btm%20Angled.png)
 
-**Verticle tracks on bottom, which can be cut as/if needed.**
+**Verticle tracks on bottom, can be cut as/if needed.**
 ![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%20Btm%20Tracks.png)
 
 ------------
