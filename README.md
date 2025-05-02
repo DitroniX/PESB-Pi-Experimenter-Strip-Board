@@ -1,6 +1,8 @@
-**PESB (Raspberry Pi Experimenter Strip Board)**
+**PESB Zero (Raspberry Pi Experimenter Strip Board)**
 
-New for April 2025 - In Production
+New for May 2025 - In Stock
+
+![PESB Zero Kit](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20Pi%20GPIO%20Experimenter%20Strip%20Board%20Kit.jpg)
 
 Designed to easily expand small quick R&D projects, or experimenting, this compact Pi Experimenters Strip Board, is absolutely ideal!
 
@@ -24,12 +26,26 @@ Designed to easily expand small quick R&D projects, or experimenting, this compa
 **Vertical tracks on the bottom can be cut as/if needed**
 ![PESB - Pi Experimenter Strip Board](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20-%20Btm%20Tracks.png)
 
+**Example PESB Zero on an ESPuno Pi Zero**
+![Example PESB Zero on an ESPuno Pi Zero](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20Pi%20GPIO%20Experimenter%20Strip%20Board%20on%20ESPuno%20Pi%20Zero.jpg)
+
+**Example PESB Zero on a Raspberry Pi**
+![Example PESB Zero on a Raspberry Pi](https://github.com/DitroniX/PESB-Pi-Experimenter-Strip-Board/blob/main/Datasheets%20and%20Information/PESB%20Zero%20Pi%20GPIO%20Experimenter%20Strip%20Board%20on%20Raspberry%20Pi.jpg)
+
+
 ------------
 
 **In The Box**
 
-1 x Pack of 5, PESB - Pi Experimenter Strip Boards.
+* 1 x PESB Zero -  Raspberry Pi GPIO Break-Out Strip Board
+ * Just needs a super project and a drop of solder
+* 1 x Raspberry Pi 40 Pin Stacker Header, with standoff, screws and nuts.
+ 
 
+**Available Separately**
+
+ - Spare Pi 40 Pin (2x40) Stackable Header Connector (with spacer and 2.5mm bolts)
+   
 ## **Purchase**
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
 
@@ -60,15 +76,3 @@ We value our Customers, Users of our designs and STEM Communities, all over the 
 * **Twitter**: [https://twitter.com/DitroniX](https://twitter.com/DitroniX)
 * [Supporting the STEM Projects - BuyMeACoffee](https://www.buymeacoffee.com/DitroniX)
 *  **LinkedIN**: [https://www.linkedin.com/in/g8puo/](https://www.linkedin.com/in/g8puo/)
-
-***Dave Williams, Maidstone, UK.***
-
-Electronics Engineer | Software Developer | R&D Support | RF Engineering | Product Certification and Testing | STEM Ambassador
-
-## STEM
-
-**Supporting [STEM Learning](https://www.stem.org.uk/)**
-
-Life is one long exciting learning curve, help others by setting the seed to knowledge.
-
-![DitroniX Supporting STEM](https://hackster.imgix.net/uploads/attachments/1606838/stem_ambassador_-_100_volunteer_badge_edxfxlrfbc1_bjdqharfoe1_xbqi2KUcri.png?auto=compress%2Cformat&w=540&fit=max)
