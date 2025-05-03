@@ -6,6 +6,8 @@ New for May 2025 - In Stock
 
 Designed to easily expand small quick R&D projects, or experimenting, this compact Pi Experimenters Strip Board, is absolutely ideal!
 
+[YouTube Video](https://www.youtube.com/watch?v=uzloIl2ea64&ab_channel=DitroniX)
+
 **Features**
 * Compact size of the Pi Zero, 65mm x 30mm
 * Standard mounting holes
